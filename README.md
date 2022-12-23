@@ -1,2 +1,2 @@
 # my_new_repo
-Exploratory Data Analysis in Home price prediction problem
+Exploratory Data Analysis of pandas problem
